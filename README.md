@@ -33,13 +33,13 @@ LW_EXPIRY=3600
 ### 3. Run the Application
 ```bash
 # Run your script
-python your_script.py
+python3.11 your_script.py
 
 # Or run MCP server directly
-python server.py
+python3.11 server.py
 
 # Or with full path
-/Users/svuillaume/betamcp/.venv/bin/python3 server.py
+/Users/svuillaume/betamcp/.venv/bin/python3.11 server.py
 ```
 
 ### 4. Deactivate Environment
