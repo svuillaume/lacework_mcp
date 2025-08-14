@@ -4,7 +4,7 @@ The server runs as an MCP (Model Context Protocol) tool that provides Lacework i
 ## Project Setup
 
 ### Pre requisite
-Check for current venv
+# Check for current venv
 
 echo $VIRTUAL_ENV
 
