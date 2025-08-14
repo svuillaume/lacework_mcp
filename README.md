@@ -11,10 +11,10 @@ echo $VIRTUAL_ENV
 ### 1. Create and Setup Virtual Environment
 ```bash
 # Create new virtual environment
-python3 -m venv mcpvenv
+python3.11 -m venv mcpvenv
 
 # Activate the environment
-source mcpenv/bin/activate
+source mcpvenv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
