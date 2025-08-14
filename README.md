@@ -4,7 +4,7 @@ The server runs as an MCP (Model Context Protocol) tool that provides Lacework i
 ## Project Setup
 
 ### Pre requisite
-Check for current venv
+# Check for current venv
 
 echo $VIRTUAL_ENV
 
@@ -14,7 +14,7 @@ echo $VIRTUAL_ENV
 python3 -m venv mcpvenv
 
 # Activate the environment
-source mcpenv/bin/activate
+source mcpvenv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
